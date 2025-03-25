@@ -18,3 +18,13 @@
 2. No Javascript libraries
 3. No Typescript
 4. only npm package allowed is vite
+
+## Resources:
+
+-   [Reading material](https://learntheweb.courses/topics/)
+-   [HTML semantics cheat sheet](https://learntheweb.courses/topics/html-semantics-cheat-sheet/)
+-   [Accessibility cheat sheet](https://learntheweb.courses/topics/accessibility-cheat-sheet/)
+-   [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-   [Flexbox Froggy](https://flexboxfroggy.com/)
+-   [CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+-   [Grid Garden](https://cssgridgarden.com/)
